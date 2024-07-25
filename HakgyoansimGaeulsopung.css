@@ -5,6 +5,7 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimGaeulsopung/HakgyoansimGaeulsopung-Light.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimGaeulsopung/HakgyoansimGaeulsopung-Light.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimGaeulsopung/HakgyoansimGaeulsopung-Light.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimGaeulsopung/HakgyoansimGaeulsopung-Light.ttf') format('truetype');
 }
 @font-face {
@@ -14,5 +15,6 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimGaeulsopung/HakgyoansimGaeulsopung-Bold.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimGaeulsopung/HakgyoansimGaeulsopung-Bold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimGaeulsopung/HakgyoansimGaeulsopung-Bold.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimGaeulsopung/HakgyoansimGaeulsopung-Bold.ttf') format('truetype');
 }
